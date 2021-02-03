@@ -25,7 +25,7 @@ void setup(){
 
     /* 
 
-    Andere Variante:
+    Andere Varianten:
 
     pinMode(3, OUTPUT); //blau
     pinMode(5, OUTPUT); // rot
