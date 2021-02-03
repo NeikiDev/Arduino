@@ -4,9 +4,9 @@
 
 void setup() {
 
- pinMode(7, OUTPUT); //roteLED
-  pinMode(9, OUTPUT); //orangeLED
-   pinMode(8, OUTPUT); //grüneLED
+  pinMode(7, OUTPUT); //rote LED
+  pinMode(9, OUTPUT); //orange LED
+  pinMode(8, OUTPUT); //grüne LED
 
  /*
    
@@ -39,7 +39,7 @@ digitalWrite(8, LOW);
 digitalWrite(7, HIGH);
 delay(2000);
 digitalWrite(9, LOW);
-
+delay(100);
 
 
 }
